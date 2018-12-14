@@ -1,0 +1,33 @@
+#content{
+	text-align: center;
+	padding-top: 25%;
+/*	color: white;*/
+}
+
+body{
+	background: url(https://cdn.pixabay.com/photo/2015/03/26/09/48/coffee-690349_960_720.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+h1{
+	font-family: Kalam;
+	font-size: 5em;
+	text-shadow: 0px 3px 6px #802b00,
+				 0px 7px 12px #ffaa80;
+
+
+}
+h3{
+	font-family: lobster;
+}
+
+html{
+	height: 100%;
+}
+
+hr{
+	width: 500px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.6);
+}
